@@ -1,4 +1,4 @@
-module.exports = {
+module.export = {
   pathPrefix: "/personal_site",
   plugins: [
     {
